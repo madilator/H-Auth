@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">HealthAuth</string>
+    <string name="btn1">Register</string>
+    <string name="btn2">Login</string>
+    <string name="RegMessage">GET REGISTERED</string>
+    <string name="tap1">Single Tap</string>
+    <string name="tap2">Double Tap</string>
+    <string name="add">Addition</string>
+    <string name="sub">Subtraction</string>
+    <string name="add1">Addition</string>
+    <string name="sub1">Subtraction</string>
+    <string name="setN">Set Secret Number</string>
+    <string name="setC">Set Secret Color</string>
+    <string name="mt">Set Color</string>
+    <string name="btnC">Choose Color</string>
+    <string name="saveBtn">Save</string>
+    <string name="sub_next">SUBMIT &amp; NEXT</string>
+    <string name="submit">SUBMIT</string>
+    <string name="colorpicker_dialog_title">Choose the secret color</string>
+    <string name="colorpicker_dialog_cancel">Cancel</string>
+    <string name="colorpicker_dialog_ok">OK</string>
+    <string name="sample">Sample</string>
+    <string name="clear">Clear</string>
+    <string name="questionMark">\?</string>
+    <string name="ok">OK</string>
+    <string name="erase">Erase</string>
+    <string name="unknown_digit">Draw digits 0-9</string>
+    <string name="drawing_area">Drawing area</string>
+    <string name="load_new_img">Load a new image</string>
+    <string name="mnist_nb_img">MNIST Number Image</string>
+    <string name="scan">SCAN QR CODE</string>
+
 </resources>

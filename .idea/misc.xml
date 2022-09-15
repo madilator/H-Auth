@@ -3,7 +3,39 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/drawable/bg_button_normal.xml" value="0.124" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/drawable/bg_button_pressed.xml" value="0.124" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/drawable/border.xml" value="0.124" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/drawable/borders.xml" value="0.1215" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/drawable/button.xml" value="0.124" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/drawable/circle_1.xml" value="0.1365" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/drawable/grid_view_select.xml" value="0.1215" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/drawable/grid_view_selected.xml" value="0.1215" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/drawable/ic_baseline_local_hospital_24.xml" value="0.1" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/drawable/ic_code_scanner_auto_focus_off.xml" value="0.185" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/drawable/ic_code_scanner_auto_focus_on.xml" value="0.185" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/drawable/ic_code_scanner_flash_off.xml" value="0.185" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/drawable/ic_code_scanner_flash_on.xml" value="0.185" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/drawable/ic_launcher_background.xml" value="0.124" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/drawable/round_button.xml" value="0.1" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/layout/activity_login_numbers.xml" value="0.1" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/layout/activity_login_qrcoder.xml" value="0.1765625" />
         <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/layout/activity_registeration_step3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/layout/activity_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/layout/activity_registration2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/layout/activity_registration3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/layout/border.xml" value="0.253125" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/layout/color_palette_layout.xml" value="0.6" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/layout/colordilogue.xml" value="0.1" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/layout/fragment_draw.xml" value="0.18972332015810275" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/layout/fragment_recognition.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/layout/palette_item.xml" value="0.1" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/layout/row_items.xml" value="0.18984375" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/layout/simplelistitem.xml" value="0.1515625" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/layout/textlayouts.xml" value="0.11197916666666667" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.149" />
+        <entry key="..\:/Users/maddy/AndroidStudioProjects/HealthAuth/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.149" />
       </map>
     </option>
   </component>
